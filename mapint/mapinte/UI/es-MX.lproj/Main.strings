@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "QdA-qd-gRK"; */
+"QdA-qd-gRK.normalTitle" = "Profile";
+
+/* Class = "UISegmentedControl"; WBa-tg-dmS.segmentTitles[0] = "Map"; ObjectID = "WBa-tg-dmS"; */
+"WBa-tg-dmS.segmentTitles[0]" = "Map";
+
+/* Class = "UISegmentedControl"; WBa-tg-dmS.segmentTitles[1] = "Saves"; ObjectID = "WBa-tg-dmS"; */
+"WBa-tg-dmS.segmentTitles[1]" = "Saves";
+
+/* Class = "UISegmentedControl"; WBa-tg-dmS.segmentTitles[2] = "Promo"; ObjectID = "WBa-tg-dmS"; */
+"WBa-tg-dmS.segmentTitles[2]" = "Promo";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "kuW-Zd-GOh"; */
+"kuW-Zd-GOh.normalTitle" = "SIGN IN";

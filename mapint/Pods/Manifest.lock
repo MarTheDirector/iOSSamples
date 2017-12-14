@@ -1,0 +1,21 @@
+PODS:
+  - Cluster (2.0.0)
+  - Localize-Swift (2.0.0)
+  - Pulley (2.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Cluster
+  - Localize-Swift (~> 2.0)
+  - Pulley
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Cluster: 9b362f4f4631b3bccd0c008baed284d57eea8854
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  Pulley: 5011e7e2afa451dc1466853dda778d252357ff4c
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: f4fe80ca91bfee2679ccd645a4da3ec46215876e
+
+COCOAPODS: 1.4.0.beta.1
