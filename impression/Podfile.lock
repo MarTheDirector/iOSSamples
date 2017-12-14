@@ -1,0 +1,45 @@
+PODS:
+  - Alamofire (3.4.1)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - DCKit (1.0.4)
+  - FBSDKCoreKit (4.14.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.14.0):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.14.0):
+    - FBSDKCoreKit
+  - JSQMessagesViewController (7.3.4):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - Koloda (3.1.1):
+    - pop (~> 1.0)
+  - pop (1.0.9)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - DCKit
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - FBSDKShareKit
+  - JSQMessagesViewController
+  - Koloda
+  - pop
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  DCKit: 0c3fb43b5fa98664e20c760d2c9545d7eeec10dc
+  FBSDKCoreKit: 6e020b5db0b5bd1e01f5fb0902131befd129a502
+  FBSDKLoginKit: da563567a108050ef83739c8c8c001ee9e25fa13
+  FBSDKShareKit: e8e5d4ccef69b41132fe33acda26db1e33143e33
+  JSQMessagesViewController: 39fed975e3c9f8eba7292071e29eeb541d105e66
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  Koloda: 782e61549cafec9fd69fc70c4a8b54bce997894d
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+
+COCOAPODS: 0.39.0
